@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e323e35486874f3489ce603b7ff0b048
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chairTransform: {instanceID: 0}
+  - customer_npc_model: {fileID: 2576521455978336689, guid: 202206b194ba74744af94daf218541d8, type: 3}
+  - SeatBelt_Tutorial: {fileID: 3122167099866233553, guid: 038b7dd4f13abd6458dcac36636c9e7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
